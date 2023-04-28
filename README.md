@@ -20,7 +20,7 @@ The formulation of the packing density is measure-specific (continuous,discrete)
 The packing density of the stacks packing collection is defined as:\\
 
 
-$\eta$ ={$\frac  {\sum _{{i=1}}^{{n}}\mu (K_{i})}{\mu (X)}$}
+$\eta$ =$\frac  {\sum _{{i=1}}^{{n}}\mu (K_{i})}{\mu (X)}$
 
 where $\mu$ is the measure defined on our compact space (here taken to be the volume).
 
