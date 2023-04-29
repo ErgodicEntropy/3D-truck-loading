@@ -1,12 +1,3 @@
-
-```py
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
 # 3D-truck-loading
 Operations research is a scientific discipline that uses several techniques from fields such as mathematical modeling, simulation, optimization theory, computer science and other fields to solve complex decision making problems concerning processes and operations. In that telling, operations research is linked to decision theory and industrial engineering. Operations research is also known as management science.
 
