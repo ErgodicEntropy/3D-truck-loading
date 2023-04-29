@@ -19,8 +19,9 @@ Packing density is defined as the fraction of the amount of space filled by obje
 The formulation of the packing density is measure-specific (continuous,discrete), space-specific (compact, Euclidean space..etc). For our convenience, trucks are compact (bounded and closed) finite-dimensional (3D) measurable spaces X. Let K1,K2,...,Kn be non-overlapping measurable subsets (stacks in our case).
 The packing density of the stacks packing collection is defined as:\\
 
-
-$\eta$ =$\frac  {\sum _{{i=1}}^{{n}}\mu (K_{i})}{\mu (X)}$
+$$
+\eta =\frac  {\sum _{{i=1}}^{{n}}\mu (K_{i})}{\mu (X)}
+$$
 
 where $\mu$ is the measure defined on our compact space (here taken to be the volume).
 
