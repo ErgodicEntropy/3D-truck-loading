@@ -19,16 +19,14 @@ Packing density is defined as the fraction of the amount of space filled by obje
 The formulation of the packing density is measure-specific (continuous,discrete), space-specific (compact, Euclidean space..etc). For our convenience, trucks are compact (bounded and closed) finite-dimensional (3D) measurable spaces X. Let K1,K2,...,Kn be non-overlapping measurable subsets (stacks in our case).
 The packing density of the stacks packing collection is defined as:\\
 
-$$
-\eta =\frac  {\sum _{{i=1}}^{{n}}\mu (K_{i})}{\mu (X)}
-$$
+η = (∑ᵢ₌₁ⁿ μ(Kᵢ)) / μ(X)
 
 where $\mu$ is the measure defined on our compact space (here taken to be the volume).
 
 Dual to the notion of packing density is the notion of redundant void (redundant because it's not weight-constrained and thus unnecessary void between stacks that need to be exploited by adding more potential stacks in the truck):\\
 
 
-RV = 1 - $\eta$ = $\frac{\mu(X) - \sum_{i=1}^{n}\mu(K_{i})}{\mu(X)}$
+RV = 1 - η = (μ(X) - ∑ᵢ₌₁ⁿ μ(Kᵢ)) / μ(X)
 
 
 Maximizing the packing density (effect) is the inverse problem of the Gibbs entropy minimization (cause). This approach is recommended because there is no explicit geometry-specific formulation of Gibbs entropy. Inverse problems are usually ill-posed (often violating Hadamard's third criterion for well-posed problems; stability/continuity of the solutions with respect to given parameters) which makes it impossible to infer the causes sometimes. However, Gibbs entropy (cause) is just a representative model that fits our goal. Moreover, we are not interested in calculating this Gibbs entropy perse from packing density inverse problem. In other words, this is not an either/or situation between forward and inverse problems as both notions are, in our case, completely replaceable.  \\
