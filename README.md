@@ -1,5 +1,5 @@
 
-```
+```py
 {
   "firstName": "John",
   "lastName": "Smith",
