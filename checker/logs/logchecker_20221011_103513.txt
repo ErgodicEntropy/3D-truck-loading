@@ -1,0 +1,453 @@
+2022-10-11 10:35:13.298 [main    ] INFO  main.Main                            - read file of instances
+2022-10-11 10:35:13.338 [main    ] INFO  io.InstancesReader                   - Read of instances file : 30 instances
+2022-10-11 10:35:13.348 [main    ] INFO  main.Main                            - read instance 0
+2022-10-11 10:35:13.348 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/AS/input_parameters.csv
+2022-10-11 10:35:13.352 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:13.353 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/AS/input_items.csv
+2022-10-11 10:35:13.511 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 1672 items
+2022-10-11 10:35:13.511 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/AS/input_trucks.csv
+2022-10-11 10:35:13.848 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 656 planned trucks
+2022-10-11 10:35:13.849 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/AS/output_trucks.csv
+2022-10-11 10:35:13.868 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 224 trucks
+2022-10-11 10:35:13.868 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/AS/output_stacks.csv
+2022-10-11 10:35:13.909 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 3556 stacks
+2022-10-11 10:35:13.909 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/AS/output_items.csv
+2022-10-11 10:35:14.020 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 8402 items
+2022-10-11 10:35:14.021 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:14.269 [main    ] INFO  main.Main                            - write report on instance 0
+2022-10-11 10:35:14.274 [main    ] INFO  main.Main                            - read instance 1
+2022-10-11 10:35:14.274 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/BU/input_parameters.csv
+2022-10-11 10:35:14.276 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:14.277 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/BU/input_items.csv
+2022-10-11 10:35:14.347 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 2318 items
+2022-10-11 10:35:14.348 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/BU/input_trucks.csv
+2022-10-11 10:35:14.465 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 413 planned trucks
+2022-10-11 10:35:14.466 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/BU/output_trucks.csv
+2022-10-11 10:35:14.477 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 244 trucks
+2022-10-11 10:35:14.478 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/BU/output_stacks.csv
+2022-10-11 10:35:14.520 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 4831 stacks
+2022-10-11 10:35:14.521 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/BU/output_items.csv
+2022-10-11 10:35:14.628 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 10579 items
+2022-10-11 10:35:14.628 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:14.777 [main    ] INFO  main.Main                            - write report on instance 1
+2022-10-11 10:35:14.786 [main    ] INFO  main.Main                            - read instance 2
+2022-10-11 10:35:14.787 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/BY/input_parameters.csv
+2022-10-11 10:35:14.789 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:14.790 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/BY/input_items.csv
+2022-10-11 10:35:15.169 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 14568 items
+2022-10-11 10:35:15.170 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/BY/input_trucks.csv
+2022-10-11 10:35:16.118 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 5821 planned trucks
+2022-10-11 10:35:16.121 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/BY/output_trucks.csv
+2022-10-11 10:35:16.151 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 1495 trucks
+2022-10-11 10:35:16.164 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/BY/output_stacks.csv
+2022-10-11 10:35:16.466 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 28658 stacks
+2022-10-11 10:35:16.467 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/BY/output_items.csv
+2022-10-11 10:35:17.025 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 75695 items
+2022-10-11 10:35:17.025 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:17.755 [main    ] INFO  main.Main                            - write report on instance 2
+2022-10-11 10:35:17.794 [main    ] INFO  main.Main                            - read instance 3
+2022-10-11 10:35:17.795 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/BY2/input_parameters.csv
+2022-10-11 10:35:17.796 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:17.796 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/BY2/input_items.csv
+2022-10-11 10:35:18.092 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 14568 items
+2022-10-11 10:35:18.093 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/BY2/input_trucks.csv
+2022-10-11 10:35:18.768 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 5821 planned trucks
+2022-10-11 10:35:18.768 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/BY2/output_trucks.csv
+2022-10-11 10:35:18.790 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 1495 trucks
+2022-10-11 10:35:18.791 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/BY2/output_stacks.csv
+2022-10-11 10:35:19.007 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 28658 stacks
+2022-10-11 10:35:19.015 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/BY2/output_items.csv
+2022-10-11 10:35:19.532 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 75695 items
+2022-10-11 10:35:19.533 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:19.930 [main    ] INFO  main.Main                            - write report on instance 3
+2022-10-11 10:35:19.951 [main    ] INFO  main.Main                            - read instance 4
+2022-10-11 10:35:19.952 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/CA/input_parameters.csv
+2022-10-11 10:35:19.954 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:19.954 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/CA/input_items.csv
+2022-10-11 10:35:19.993 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 1391 items
+2022-10-11 10:35:19.994 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/CA/input_trucks.csv
+2022-10-11 10:35:20.045 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 569 planned trucks
+2022-10-11 10:35:20.046 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/CA/output_trucks.csv
+2022-10-11 10:35:20.066 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 388 trucks
+2022-10-11 10:35:20.067 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/CA/output_stacks.csv
+2022-10-11 10:35:20.121 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 6973 stacks
+2022-10-11 10:35:20.122 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/CA/output_items.csv
+2022-10-11 10:35:20.206 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 12772 items
+2022-10-11 10:35:20.206 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:20.285 [main    ] INFO  main.Main                            - write report on instance 4
+2022-10-11 10:35:20.287 [main    ] INFO  main.Main                            - read instance 5
+2022-10-11 10:35:20.288 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/CC/input_parameters.csv
+2022-10-11 10:35:20.294 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:20.294 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/CC/input_items.csv
+2022-10-11 10:35:20.330 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 1890 items
+2022-10-11 10:35:20.330 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/CC/input_trucks.csv
+2022-10-11 10:35:20.358 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 407 planned trucks
+2022-10-11 10:35:20.358 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/CC/output_trucks.csv
+2022-10-11 10:35:20.375 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 357 trucks
+2022-10-11 10:35:20.375 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/CC/output_stacks.csv
+2022-10-11 10:35:20.419 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 7712 stacks
+2022-10-11 10:35:20.420 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/CC/output_items.csv
+2022-10-11 10:35:20.480 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 14347 items
+2022-10-11 10:35:20.481 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:20.619 [main    ] INFO  main.Main                            - write report on instance 5
+2022-10-11 10:35:20.626 [main    ] INFO  main.Main                            - read instance 6
+2022-10-11 10:35:20.627 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/CI/input_parameters.csv
+2022-10-11 10:35:20.630 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:20.630 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/CI/input_items.csv
+2022-10-11 10:35:20.794 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 10324 items
+2022-10-11 10:35:20.794 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/CI/input_trucks.csv
+2022-10-11 10:35:21.050 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 1670 planned trucks
+2022-10-11 10:35:21.050 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/CI/output_trucks.csv
+2022-10-11 10:35:21.066 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 806 trucks
+2022-10-11 10:35:21.066 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/CI/output_stacks.csv
+2022-10-11 10:35:21.120 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 15749 stacks
+2022-10-11 10:35:21.120 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/CI/output_items.csv
+2022-10-11 10:35:21.265 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 39522 items
+2022-10-11 10:35:21.265 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:21.492 [main    ] INFO  main.Main                            - write report on instance 6
+2022-10-11 10:35:21.495 [main    ] INFO  main.Main                            - read instance 7
+2022-10-11 10:35:21.495 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/CI2/input_parameters.csv
+2022-10-11 10:35:21.501 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:21.501 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/CI2/input_items.csv
+2022-10-11 10:35:21.742 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 10324 items
+2022-10-11 10:35:21.743 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/CI2/input_trucks.csv
+2022-10-11 10:35:22.036 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 1670 planned trucks
+2022-10-11 10:35:22.037 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/CI2/output_trucks.csv
+2022-10-11 10:35:22.051 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 806 trucks
+2022-10-11 10:35:22.051 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/CI2/output_stacks.csv
+2022-10-11 10:35:22.112 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 15749 stacks
+2022-10-11 10:35:22.112 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/CI2/output_items.csv
+2022-10-11 10:35:22.310 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 39522 items
+2022-10-11 10:35:22.310 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:22.496 [main    ] INFO  main.Main                            - write report on instance 7
+2022-10-11 10:35:22.500 [main    ] INFO  main.Main                            - read instance 8
+2022-10-11 10:35:22.501 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/CL/input_parameters.csv
+2022-10-11 10:35:22.505 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:22.505 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/CL/input_items.csv
+2022-10-11 10:35:22.570 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 4020 items
+2022-10-11 10:35:22.570 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/CL/input_trucks.csv
+2022-10-11 10:35:22.613 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 1061 planned trucks
+2022-10-11 10:35:22.614 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/CL/output_trucks.csv
+2022-10-11 10:35:22.632 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 792 trucks
+2022-10-11 10:35:22.633 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/CL/output_stacks.csv
+2022-10-11 10:35:22.703 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 16872 stacks
+2022-10-11 10:35:22.704 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/CL/output_items.csv
+2022-10-11 10:35:22.918 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 30051 items
+2022-10-11 10:35:22.919 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:23.016 [main    ] INFO  main.Main                            - write report on instance 8
+2022-10-11 10:35:23.021 [main    ] INFO  main.Main                            - read instance 9
+2022-10-11 10:35:23.021 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/DO/input_parameters.csv
+2022-10-11 10:35:23.025 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:23.025 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/DO/input_items.csv
+2022-10-11 10:35:23.146 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 7733 items
+2022-10-11 10:35:23.146 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/DO/input_trucks.csv
+2022-10-11 10:35:23.472 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 1989 planned trucks
+2022-10-11 10:35:23.472 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/DO/output_trucks.csv
+2022-10-11 10:35:23.486 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 817 trucks
+2022-10-11 10:35:23.486 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/DO/output_stacks.csv
+2022-10-11 10:35:23.537 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 15192 stacks
+2022-10-11 10:35:23.537 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/DO/output_items.csv
+2022-10-11 10:35:23.682 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 41196 items
+2022-10-11 10:35:23.682 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:23.783 [main    ] INFO  main.Main                            - write report on instance 9
+2022-10-11 10:35:23.785 [main    ] INFO  main.Main                            - read instance 10
+2022-10-11 10:35:23.785 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/DO2/input_parameters.csv
+2022-10-11 10:35:23.791 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:23.792 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/DO2/input_items.csv
+2022-10-11 10:35:23.876 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 7733 items
+2022-10-11 10:35:23.876 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/DO2/input_trucks.csv
+2022-10-11 10:35:24.165 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 1989 planned trucks
+2022-10-11 10:35:24.165 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/DO2/output_trucks.csv
+2022-10-11 10:35:24.181 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 817 trucks
+2022-10-11 10:35:24.181 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/DO2/output_stacks.csv
+2022-10-11 10:35:24.232 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 15192 stacks
+2022-10-11 10:35:24.233 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/DO2/output_items.csv
+2022-10-11 10:35:24.449 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 41196 items
+2022-10-11 10:35:24.449 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:24.523 [main    ] INFO  main.Main                            - write report on instance 10
+2022-10-11 10:35:24.525 [main    ] INFO  main.Main                            - read instance 11
+2022-10-11 10:35:24.526 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/FC/input_parameters.csv
+2022-10-11 10:35:24.531 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:24.532 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/FC/input_items.csv
+2022-10-11 10:35:24.551 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 1226 items
+2022-10-11 10:35:24.551 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/FC/input_trucks.csv
+2022-10-11 10:35:24.637 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 535 planned trucks
+2022-10-11 10:35:24.637 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/FC/output_trucks.csv
+2022-10-11 10:35:24.640 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 93 trucks
+2022-10-11 10:35:24.641 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/FC/output_stacks.csv
+2022-10-11 10:35:24.657 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 1523 stacks
+2022-10-11 10:35:24.658 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/FC/output_items.csv
+2022-10-11 10:35:24.686 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 5017 items
+2022-10-11 10:35:24.687 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:24.702 [main    ] INFO  main.Main                            - write report on instance 11
+2022-10-11 10:35:24.704 [main    ] INFO  main.Main                            - read instance 12
+2022-10-11 10:35:24.704 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/FL/input_parameters.csv
+2022-10-11 10:35:24.706 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:24.706 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/FL/input_items.csv
+2022-10-11 10:35:24.841 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 12040 items
+2022-10-11 10:35:24.842 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/FL/input_trucks.csv
+2022-10-11 10:35:24.957 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 1122 planned trucks
+2022-10-11 10:35:24.957 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/FL/output_trucks.csv
+2022-10-11 10:35:24.969 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 861 trucks
+2022-10-11 10:35:24.970 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/FL/output_stacks.csv
+2022-10-11 10:35:25.040 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 14737 stacks
+2022-10-11 10:35:25.041 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/FL/output_items.csv
+2022-10-11 10:35:25.184 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 40742 items
+2022-10-11 10:35:25.185 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:25.299 [main    ] INFO  main.Main                            - write report on instance 12
+2022-10-11 10:35:25.304 [main    ] INFO  main.Main                            - read instance 13
+2022-10-11 10:35:25.306 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/FS/input_parameters.csv
+2022-10-11 10:35:25.308 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:25.308 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/FS/input_items.csv
+2022-10-11 10:35:25.336 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 1529 items
+2022-10-11 10:35:25.336 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/FS/input_trucks.csv
+2022-10-11 10:35:25.373 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 220 planned trucks
+2022-10-11 10:35:25.373 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/FS/output_trucks.csv
+2022-10-11 10:35:25.383 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 183 trucks
+2022-10-11 10:35:25.383 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/FS/output_stacks.csv
+2022-10-11 10:35:25.411 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 3969 stacks
+2022-10-11 10:35:25.411 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/FS/output_items.csv
+2022-10-11 10:35:25.455 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 6967 items
+2022-10-11 10:35:25.456 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:25.490 [main    ] INFO  main.Main                            - write report on instance 13
+2022-10-11 10:35:25.498 [main    ] INFO  main.Main                            - read instance 14
+2022-10-11 10:35:25.498 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/MA/input_parameters.csv
+2022-10-11 10:35:25.500 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:25.500 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/MA/input_items.csv
+2022-10-11 10:35:25.693 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 16541 items
+2022-10-11 10:35:25.693 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/MA/input_trucks.csv
+2022-10-11 10:35:25.905 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 1990 planned trucks
+2022-10-11 10:35:25.905 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/MA/output_trucks.csv
+2022-10-11 10:35:25.922 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 1140 trucks
+2022-10-11 10:35:25.923 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/MA/output_stacks.csv
+2022-10-11 10:35:25.989 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 21804 stacks
+2022-10-11 10:35:25.990 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/MA/output_items.csv
+2022-10-11 10:35:26.220 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 61267 items
+2022-10-11 10:35:26.220 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:26.365 [main    ] INFO  main.Main                            - write report on instance 14
+2022-10-11 10:35:26.368 [main    ] INFO  main.Main                            - read instance 15
+2022-10-11 10:35:26.368 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/MA2/input_parameters.csv
+2022-10-11 10:35:26.373 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:26.374 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/MA2/input_items.csv
+2022-10-11 10:35:26.600 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 16541 items
+2022-10-11 10:35:26.601 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/MA2/input_trucks.csv
+2022-10-11 10:35:26.885 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 1990 planned trucks
+2022-10-11 10:35:26.885 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/MA2/output_trucks.csv
+2022-10-11 10:35:26.902 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 1140 trucks
+2022-10-11 10:35:26.902 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/MA2/output_stacks.csv
+2022-10-11 10:35:26.981 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 21804 stacks
+2022-10-11 10:35:26.981 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/MA2/output_items.csv
+2022-10-11 10:35:27.233 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 61267 items
+2022-10-11 10:35:27.233 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:27.341 [main    ] INFO  main.Main                            - write report on instance 15
+2022-10-11 10:35:27.344 [main    ] INFO  main.Main                            - read instance 16
+2022-10-11 10:35:27.344 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/MT/input_parameters.csv
+2022-10-11 10:35:27.346 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:27.350 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/MT/input_items.csv
+2022-10-11 10:35:27.393 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 3660 items
+2022-10-11 10:35:27.393 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/MT/input_trucks.csv
+2022-10-11 10:35:27.433 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 721 planned trucks
+2022-10-11 10:35:27.433 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/MT/output_trucks.csv
+2022-10-11 10:35:27.445 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 458 trucks
+2022-10-11 10:35:27.445 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/MT/output_stacks.csv
+2022-10-11 10:35:27.481 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 10670 stacks
+2022-10-11 10:35:27.481 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/MT/output_items.csv
+2022-10-11 10:35:27.577 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 22703 items
+2022-10-11 10:35:27.577 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:27.646 [main    ] INFO  main.Main                            - write report on instance 16
+2022-10-11 10:35:27.648 [main    ] INFO  main.Main                            - read instance 17
+2022-10-11 10:35:27.653 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/PA/input_parameters.csv
+2022-10-11 10:35:27.655 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:27.655 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/PA/input_items.csv
+2022-10-11 10:35:27.839 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 19114 items
+2022-10-11 10:35:27.839 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/PA/input_trucks.csv
+2022-10-11 10:35:28.213 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 2866 planned trucks
+2022-10-11 10:35:28.213 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/PA/output_trucks.csv
+2022-10-11 10:35:28.229 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 1278 trucks
+2022-10-11 10:35:28.230 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/PA/output_stacks.csv
+2022-10-11 10:35:28.304 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 24004 stacks
+2022-10-11 10:35:28.304 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/PA/output_items.csv
+2022-10-11 10:35:28.530 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 63641 items
+2022-10-11 10:35:28.530 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:28.766 [main    ] INFO  main.Main                            - write report on instance 17
+2022-10-11 10:35:28.776 [main    ] INFO  main.Main                            - read instance 18
+2022-10-11 10:35:28.777 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/PA2/input_parameters.csv
+2022-10-11 10:35:28.779 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:28.780 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/PA2/input_items.csv
+2022-10-11 10:35:28.975 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 19114 items
+2022-10-11 10:35:28.975 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/PA2/input_trucks.csv
+2022-10-11 10:35:29.460 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 2866 planned trucks
+2022-10-11 10:35:29.460 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/PA2/output_trucks.csv
+2022-10-11 10:35:29.478 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 1278 trucks
+2022-10-11 10:35:29.478 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/PA2/output_stacks.csv
+2022-10-11 10:35:29.558 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 24004 stacks
+2022-10-11 10:35:29.558 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/PA2/output_items.csv
+2022-10-11 10:35:29.875 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 63641 items
+2022-10-11 10:35:29.875 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:30.109 [main    ] INFO  main.Main                            - write report on instance 18
+2022-10-11 10:35:30.119 [main    ] INFO  main.Main                            - read instance 19
+2022-10-11 10:35:30.119 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/RM/input_parameters.csv
+2022-10-11 10:35:30.121 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:30.122 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/RM/input_items.csv
+2022-10-11 10:35:30.172 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 3816 items
+2022-10-11 10:35:30.172 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/RM/input_trucks.csv
+2022-10-11 10:35:30.759 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 2493 planned trucks
+2022-10-11 10:35:30.759 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/RM/output_trucks.csv
+2022-10-11 10:35:30.769 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 411 trucks
+2022-10-11 10:35:30.770 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/RM/output_stacks.csv
+2022-10-11 10:35:30.808 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 6251 stacks
+2022-10-11 10:35:30.808 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/RM/output_items.csv
+2022-10-11 10:35:30.899 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 17741 items
+2022-10-11 10:35:30.899 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:30.932 [main    ] INFO  main.Main                            - write report on instance 19
+2022-10-11 10:35:30.933 [main    ] INFO  main.Main                            - read instance 20
+2022-10-11 10:35:30.933 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/RM2/input_parameters.csv
+2022-10-11 10:35:30.940 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:30.941 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/RM2/input_items.csv
+2022-10-11 10:35:30.991 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 3816 items
+2022-10-11 10:35:30.991 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/RM2/input_trucks.csv
+2022-10-11 10:35:31.690 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 2493 planned trucks
+2022-10-11 10:35:31.690 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/RM2/output_trucks.csv
+2022-10-11 10:35:31.705 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 411 trucks
+2022-10-11 10:35:31.705 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/RM2/output_stacks.csv
+2022-10-11 10:35:31.746 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 6251 stacks
+2022-10-11 10:35:31.746 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/RM2/output_items.csv
+2022-10-11 10:35:31.833 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 17741 items
+2022-10-11 10:35:31.833 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:31.885 [main    ] INFO  main.Main                            - write report on instance 20
+2022-10-11 10:35:31.886 [main    ] INFO  main.Main                            - read instance 21
+2022-10-11 10:35:31.887 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/RT/input_parameters.csv
+2022-10-11 10:35:31.893 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:31.894 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/RT/input_items.csv
+2022-10-11 10:35:31.910 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 953 items
+2022-10-11 10:35:31.911 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/RT/input_trucks.csv
+2022-10-11 10:35:31.940 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 230 planned trucks
+2022-10-11 10:35:31.940 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/RT/output_trucks.csv
+2022-10-11 10:35:31.952 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 157 trucks
+2022-10-11 10:35:31.953 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/RT/output_stacks.csv
+2022-10-11 10:35:31.981 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 4070 stacks
+2022-10-11 10:35:31.981 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/RT/output_items.csv
+2022-10-11 10:35:32.016 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 7112 items
+2022-10-11 10:35:32.017 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:32.051 [main    ] INFO  main.Main                            - write report on instance 21
+2022-10-11 10:35:32.052 [main    ] INFO  main.Main                            - read instance 22
+2022-10-11 10:35:32.058 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/SA/input_parameters.csv
+2022-10-11 10:35:32.060 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:32.060 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/SA/input_items.csv
+2022-10-11 10:35:32.257 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 17153 items
+2022-10-11 10:35:32.257 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/SA/input_trucks.csv
+2022-10-11 10:35:32.591 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 3565 planned trucks
+2022-10-11 10:35:32.592 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/SA/output_trucks.csv
+2022-10-11 10:35:32.609 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 1611 trucks
+2022-10-11 10:35:32.609 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/SA/output_stacks.csv
+2022-10-11 10:35:32.741 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 31938 stacks
+2022-10-11 10:35:32.741 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/SA/output_items.csv
+2022-10-11 10:35:33.076 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 85435 items
+2022-10-11 10:35:33.076 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:33.232 [main    ] INFO  main.Main                            - write report on instance 22
+2022-10-11 10:35:33.234 [main    ] INFO  main.Main                            - read instance 23
+2022-10-11 10:35:33.234 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/SA2/input_parameters.csv
+2022-10-11 10:35:33.236 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:33.240 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/SA2/input_items.csv
+2022-10-11 10:35:33.398 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 17153 items
+2022-10-11 10:35:33.399 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/SA2/input_trucks.csv
+2022-10-11 10:35:33.688 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 3565 planned trucks
+2022-10-11 10:35:33.688 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/SA2/output_trucks.csv
+2022-10-11 10:35:33.704 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 1611 trucks
+2022-10-11 10:35:33.705 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/SA2/output_stacks.csv
+2022-10-11 10:35:33.800 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 31938 stacks
+2022-10-11 10:35:33.800 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/SA2/output_items.csv
+2022-10-11 10:35:34.131 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 85435 items
+2022-10-11 10:35:34.131 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:34.272 [main    ] INFO  main.Main                            - write report on instance 23
+2022-10-11 10:35:34.275 [main    ] INFO  main.Main                            - read instance 24
+2022-10-11 10:35:34.275 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/TA/input_parameters.csv
+2022-10-11 10:35:34.281 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:34.281 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/TA/input_items.csv
+2022-10-11 10:35:34.423 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 13863 items
+2022-10-11 10:35:34.423 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/TA/input_trucks.csv
+2022-10-11 10:35:35.100 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 4480 planned trucks
+2022-10-11 10:35:35.100 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/TA/output_trucks.csv
+2022-10-11 10:35:35.119 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 1288 trucks
+2022-10-11 10:35:35.119 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/TA/output_stacks.csv
+2022-10-11 10:35:35.216 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 25752 stacks
+2022-10-11 10:35:35.216 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/TA/output_items.csv
+2022-10-11 10:35:35.771 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 68688 items
+2022-10-11 10:35:35.772 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:35.911 [main    ] INFO  main.Main                            - write report on instance 24
+2022-10-11 10:35:35.913 [main    ] INFO  main.Main                            - read instance 25
+2022-10-11 10:35:35.913 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/TA2/input_parameters.csv
+2022-10-11 10:35:35.920 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:35.920 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/TA2/input_items.csv
+2022-10-11 10:35:36.082 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 13863 items
+2022-10-11 10:35:36.082 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/TA2/input_trucks.csv
+2022-10-11 10:35:36.841 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 4480 planned trucks
+2022-10-11 10:35:36.841 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/TA2/output_trucks.csv
+2022-10-11 10:35:36.857 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 1288 trucks
+2022-10-11 10:35:36.857 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/TA2/output_stacks.csv
+2022-10-11 10:35:36.937 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 25752 stacks
+2022-10-11 10:35:36.937 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/TA2/output_items.csv
+2022-10-11 10:35:37.191 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 68688 items
+2022-10-11 10:35:37.192 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:37.294 [main    ] INFO  main.Main                            - write report on instance 25
+2022-10-11 10:35:37.296 [main    ] INFO  main.Main                            - read instance 26
+2022-10-11 10:35:37.296 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/TR/input_parameters.csv
+2022-10-11 10:35:37.302 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:37.302 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/TR/input_items.csv
+2022-10-11 10:35:37.409 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 10314 items
+2022-10-11 10:35:37.410 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/TR/input_trucks.csv
+2022-10-11 10:35:37.922 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 3136 planned trucks
+2022-10-11 10:35:37.922 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/TR/output_trucks.csv
+2022-10-11 10:35:37.934 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 859 trucks
+2022-10-11 10:35:37.935 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/TR/output_stacks.csv
+2022-10-11 10:35:37.990 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 17666 stacks
+2022-10-11 10:35:37.990 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/TR/output_items.csv
+2022-10-11 10:35:38.159 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 49103 items
+2022-10-11 10:35:38.159 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:38.281 [main    ] INFO  main.Main                            - write report on instance 26
+2022-10-11 10:35:38.283 [main    ] INFO  main.Main                            - read instance 27
+2022-10-11 10:35:38.284 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/TR2/input_parameters.csv
+2022-10-11 10:35:38.285 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:38.289 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/TR2/input_items.csv
+2022-10-11 10:35:38.416 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 10314 items
+2022-10-11 10:35:38.416 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/TR2/input_trucks.csv
+2022-10-11 10:35:38.949 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 3136 planned trucks
+2022-10-11 10:35:38.949 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/TR2/output_trucks.csv
+2022-10-11 10:35:38.966 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 859 trucks
+2022-10-11 10:35:38.966 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/TR2/output_stacks.csv
+2022-10-11 10:35:39.036 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 17666 stacks
+2022-10-11 10:35:39.036 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/TR2/output_items.csv
+2022-10-11 10:35:39.220 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 49103 items
+2022-10-11 10:35:39.220 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:39.340 [main    ] INFO  main.Main                            - write report on instance 27
+2022-10-11 10:35:39.344 [main    ] INFO  main.Main                            - read instance 28
+2022-10-11 10:35:39.344 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/VA/input_parameters.csv
+2022-10-11 10:35:39.349 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:39.349 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/VA/input_items.csv
+2022-10-11 10:35:39.498 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 15079 items
+2022-10-11 10:35:39.498 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/VA/input_trucks.csv
+2022-10-11 10:35:39.864 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 5207 planned trucks
+2022-10-11 10:35:39.864 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/VA/output_trucks.csv
+2022-10-11 10:35:39.878 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 1246 trucks
+2022-10-11 10:35:39.878 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/VA/output_stacks.csv
+2022-10-11 10:35:39.953 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 25226 stacks
+2022-10-11 10:35:39.954 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/VA/output_items.csv
+2022-10-11 10:35:40.227 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 70268 items
+2022-10-11 10:35:40.228 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:40.419 [main    ] INFO  main.Main                            - write report on instance 28
+2022-10-11 10:35:40.426 [main    ] INFO  main.Main                            - read instance 29
+2022-10-11 10:35:40.426 [main    ] INFO  main.Main                            - read parameters file datasetA_with_outputs/VA2/input_parameters.csv
+2022-10-11 10:35:40.428 [main    ] INFO  io.InputParametersReader             - Read of parameters file
+2022-10-11 10:35:40.429 [main    ] INFO  main.Main                            - read input items file datasetA_with_outputs/VA2/input_items.csv
+2022-10-11 10:35:40.594 [main    ] INFO  io.InputItemsReader                  - Read of input items file : 15079 items
+2022-10-11 10:35:40.595 [main    ] INFO  main.Main                            - read input trucks file datasetA_with_outputs/VA2/input_trucks.csv
+2022-10-11 10:35:41.029 [main    ] INFO  io.InputTrucksReader                 - Read of input trucks file : 5207 planned trucks
+2022-10-11 10:35:41.029 [main    ] INFO  main.Main                            - read output trucks file datasetA_with_outputs/VA2/output_trucks.csv
+2022-10-11 10:35:41.045 [main    ] INFO  io.OutputTrucksReader                - Read of output trucks file : 1246 trucks
+2022-10-11 10:35:41.045 [main    ] INFO  main.Main                            - read output stacks file datasetA_with_outputs/VA2/output_stacks.csv
+2022-10-11 10:35:41.118 [main    ] INFO  io.OutputStacksReader                - Read of output stacks file : 25226 stacks
+2022-10-11 10:35:41.118 [main    ] INFO  main.Main                            - read output items file datasetA_with_outputs/VA2/output_items.csv
+2022-10-11 10:35:41.400 [main    ] INFO  io.OutputItemsReader                 - Read of output items file : 70268 items
+2022-10-11 10:35:41.400 [main    ] INFO  main.Main                            - check all constraints
+2022-10-11 10:35:41.551 [main    ] INFO  main.Main                            - write report on instance 29
+2022-10-11 10:35:41.557 [main    ] INFO  main.Main                            - end of program
